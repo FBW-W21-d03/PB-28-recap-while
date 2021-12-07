@@ -1,7 +1,7 @@
 
 let grade = [];
 let ungrade = [];
-let ausgabe = 1;
+let ausgabe = 0;
 
 while ((grade.length<=100) && (ungrade.length<=100)) {
     grade.push(ausgabe);
