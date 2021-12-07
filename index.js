@@ -11,4 +11,3 @@ while ((grade.length<=100) && (ungrade.length<=100)) {
         console.log(grade, ungrade);
     }
         }
-        
