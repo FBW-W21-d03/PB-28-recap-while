@@ -1,7 +1,7 @@
-let ungeradeZahlen = -1;
+let ungeradeZahlen = 0;
 const ungeradeZahlenArr = [];
 
-while (ungeradeZahlen <= 1000) {
+while (ungeradeZahlen < 1000) {
     ungeradeZahlen ++;
     ungeradeZahlenArr.push(ungeradeZahlen++);
 }
